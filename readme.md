@@ -5,9 +5,13 @@ Updates all your files in lowercase files to fit with the new Minecraft Version 
 
 ### Setup
 ```
-Download the file **2To3Converter** in the folder **bin/Debug**.
-Save the file on your Desktop or where you want.
-Run the EXE file.
-Select a ZIP Resource Pack with the Type 2.
-Click **Convert** <This doesn't work currently
+- Download the file **2To3Converter** in the folder **bin/Debug**.
+- Save the file on your Desktop or where you want.
+- Run the EXE file.
+- Select a ZIP Resource Pack with the Type 2.
+- Click **Convert** <This doesn't work currently
 ```
+
+###Attention
+
+This programm doesn't work currently. I'm new to this topic and this is my first project i didn't created with a internet site :D
